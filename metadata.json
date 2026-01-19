@@ -1,0 +1,7 @@
+{
+  "name": "Mythos: Eternal Winds - Game Showcase",
+  "description": "An immersive, cinematic slide-based game introduction application featuring high-quality visuals, interactive lore, and AI-driven world exploration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
